@@ -1,0 +1,5 @@
+import tune
+tune = ["D1:4", "D1:4", "D3:4","D1:4", "D3:4", "A1:3", "D1:4", "C3:4", "D3:4"] 
+play.music(tune)
+# Begin stukje van Pirates of the Carribean
+#klint allen niet best xD
